@@ -417,14 +417,14 @@
    
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/Banner.png",
+    "dark": "/logo/Banner.png"
   },
   "navbar": {
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "mailto:support@faytron.com"
       }
     ],
     "primary": {
