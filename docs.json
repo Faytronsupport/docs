@@ -417,8 +417,8 @@
    
   },
   "logo": {
-    "light": "/logo/Banner.png",
-    "dark": "/logo/Banner.png"
+    "light": "/favicon.png",
+    "dark": "/favicon.png"
   },
   "navbar": {
     "links": [
